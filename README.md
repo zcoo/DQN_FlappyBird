@@ -2,7 +2,11 @@
 
 <img src="flying_bird.gif" width="250">
 
-There is a Pre-Trained model included in the project, which cost about 8 hours with GPU. The bird in fact flys well with 1,000,000 times but in this model 2,270,000 
+There is a Pre-Trained model included in the project, which cost about 8 hours to train with GPU. The bird in fact flys well with 1,000,000 times training but in this model 2,270,000.
+
+All you need is: pygame, tensorflow ,opencv-python.
+
+Now, enjoying the annoying bird.
 ### train
 To train a model, run
 
